@@ -49,7 +49,6 @@
 ### TF-№: 1.1.1
 US-№: 1.1
 Ausgangslage: Spielfigur an Abzweigung nach links angekommen
-
 Input: 1. 'ArrowLeft'
 Output: 2. Spielfigur ändert Richtung nach links
 
