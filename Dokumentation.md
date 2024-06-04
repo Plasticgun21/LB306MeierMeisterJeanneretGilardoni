@@ -23,6 +23,8 @@
 | ---- | ---- | --- | ---------------------------------- |
 | 1.1    |   1   |  muss | Als User möchte ich die Richtung in die sich die Spielfigur bewegt nach oben, unten, rechts oder links ändern können, um mich auf der Map zu bewegen.  |
 | 2.1    |   2   |  muss | Als User möchte ich für die erreichte Punktzahl eine Belonung in Form von In-Game-Coins erhalten, um mir andere Skins für die Figur zu kaufen. |
-| 3.1    |   3   |  muss | Als User möchte ich, dass zwei Geister direkt von vorne angreifen, um das Spiel zu erschweren.  |
-| 3.2    |   3   |  muss | Als User möchte ich, dass ein Geist von hinten angreift, um das Spiel zu erschweren.  |
-| 3.3    |   3   |  muss | Als User möchte ich, dass ein Geist aus verschiedenen Richtungen kommen kann, um das Spiel zu erschweren.  |
+| 3.1    |   3   |  muss | Als User möchte ich, dass zwei Geister direkt von vorne angreifen, um das Spiel zu anspruchsvoller zu machen.  |
+| 3.2    |   3   |  muss | Als User möchte ich, dass ein Geist von hinten angreift, um das Spiel zu anspruchsvoller zu machen.  |
+| 3.3    |   3   |  muss | Als User möchte ich, dass ein Geist aus verschiedenen Richtungen kommen kann, um das Spiel zu anspruchsvoller zu machen.  |
+| 4.1    |   4   |  muss | Als User möchte ich, drei verschiedene Maps zur Auswahl haben, um Abwechslung in das Spiel zu bringen.  |
+| 4.2    |   4   |  muss | Als User möchte ich, drei verschiedene Schwierigkeitsgrade zur Auswahl haben, um das Spiel zu anspruchsvoller zu machen.  |
