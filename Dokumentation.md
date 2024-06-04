@@ -22,6 +22,7 @@
 | US-№ | An-№ | Verbindlichkeit | Beschreibung                 |
 | ---- | ---- | --- | ---------------------------------- |
 | 1.1    |   1   |  muss | Als User möchte ich die Richtung in die sich die Spielfigur bewegt nach oben, unten, rechts oder links ändern können, um mich auf der Map zu bewegen.  |
+| 1.2    |   1   |  muss | Als User möchte ich, dass die Spielfigur die Bahn nicht verlassen kann, um das Spiel anspruchsvoller zu machen. |
 | 2.1    |   2   |  muss | Als User möchte ich für die erreichte Punktzahl eine Belonung in Form von In-Game-Coins erhalten, um mir andere Skins für die Figur zu kaufen. |
 | 3.1    |   3   |  muss | Als User möchte ich, dass zwei Geister direkt von vorne angreifen, um das Spiel zu anspruchsvoller zu machen.  |
 | 3.2    |   3   |  muss | Als User möchte ich, dass ein Geist von hinten angreift, um das Spiel zu anspruchsvoller zu machen.  |
@@ -41,3 +42,48 @@
 | 8.2    |   8   |  muss | Als User möchte ich, dass der der Score der letzen runde im Main-Screen angezeigt wird, um die Information zu haben.  |
 | 8.3    |   8   |  muss | Als User möchte ich, dass meine Anzahl Coins durchgehend angezeigt wird, um zu wissen wann ich mir einen Skin kaufen kann.  |
 
+
+
+## Testfälle
+
+### TF-№: 1.1.1
+US-№: 1.1
+Ausgangslage: Spielfigur an Abzweigung nach links angekommen
+Input: 1. 'ArrowLeft'
+Output: 2. Spielfigur ändert Richtung nach links
+
+### TF-№: 1.1.2
+US-№: 1.1
+Ausgangslage: Spielfigur an Abzweigung nach rechts angekommen
+Input: 1. 'ArrowRight'
+Output: 2. Spielfigur ändert Richtung nach rechts
+
+### TF-№: 1.1.3
+US-№: 1.1
+Ausgangslage: Spielfigur an Abzweigung nach oben angekommen
+Input: 1. 'ArrowUp'
+Output: 2. Spielfigur ändert Richtung nach oben
+
+### TF-№: 1.1.4
+US-№: 1.1
+Ausgangslage: Spielfigur an Abzweigung nach unten angekommen
+Input: 1. 'ArrowDown'
+Output: 2. Spielfigur ändert Richtung nach unten
+
+### TF-№: 1.2.1
+US-№: 1.2
+Ausgangslage: Spiel gestartet + keine Verzweigung
+Input: 'ArrowRight'
+Output: -
+
+### TF-№: 
+US-№: 
+Ausgangslage: 
+Input: 
+Output: 
+
+### TF-№: 
+US-№: 
+Ausgangslage: 
+Input: 
+Output: 
