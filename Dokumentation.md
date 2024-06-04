@@ -51,41 +51,59 @@ US-№: 1.1
 
 Ausgangslage: Spielfigur an Abzweigung nach links angekommen
 
-Input: 1. 'ArrowLeft' 
+Input: 1. 'ArrowLeft' | 
 Output: 2. Spielfigur ändert Richtung nach links
+
 
 ### TF-№: 1.1.2
 US-№: 1.1
+
 Ausgangslage: Spielfigur an Abzweigung nach rechts angekommen
-Input: 1. 'ArrowRight'
+
+Input: 1. 'ArrowRight' | 
 Output: 2. Spielfigur ändert Richtung nach rechts
+
 
 ### TF-№: 1.1.3
 US-№: 1.1
+
 Ausgangslage: Spielfigur an Abzweigung nach oben angekommen
-Input: 1. 'ArrowUp'
+
+Input: 1. 'ArrowUp' | 
 Output: 2. Spielfigur ändert Richtung nach oben
+
 
 ### TF-№: 1.1.4
 US-№: 1.1
+
 Ausgangslage: Spielfigur an Abzweigung nach unten angekommen
-Input: 1. 'ArrowDown'
+
+Input: 1. 'ArrowDown' | 
 Output: 2. Spielfigur ändert Richtung nach unten
+
 
 ### TF-№: 1.2.1
 US-№: 1.2
+
 Ausgangslage: Spiel gestartet + keine Verzweigung
-Input: 'ArrowRight'
+
+Input: 'ArrowRight' | 
 Output: -
 
-### TF-№: 
-US-№: 
-Ausgangslage: 
-Input: 
-Output: 
+
+### TF-№: 2.1.1
+US-№: 2.1
+
+Ausgangslage: Runde beendet mit 20 Punkten 
+
+Input: - | 
+Output: 1. +10 Coins
+
 
 ### TF-№: 
 US-№: 
+
 Ausgangslage: 
-Input: 
+
+Input:  | 
 Output: 
