@@ -10,9 +10,9 @@
 |   3   |    Funktional      |                 Die Geister sollen unterschiedliche Bewegungsmuster haben.                        |
 |  4    |    Funktional      |                Das Spiel soll verschiedene Kartenlayouts und Schwierigkeitsgrade haben.                         |
 |   5   |    Funktional      |                Das Spiel soll ansprechende Musik und Soundeffekte haben.                         |
-|  6    |    Funktional      |               Das Spiel soll eine Intuitive und leicht navigierbare UI haben.                          |
+|  6    |    Qualität      |               Das Spiel soll eine Intuitive und leicht navigierbare UI haben.                          |
 |    7  |    Funktional      |                   Das Spiel soll Power-ups haben, um temporäre Vorteile im Spiel zu haben.                      |
-|   8   |    Funktional      |                Das Spiel soll eine Speicherung und Anzeige der besten Spielergebnisse haben.                         |
+|   8   |    Funktional      |                Das Spiel soll eine Speicherung und Anzeige der besten Spielergebnisse und der Anzahl Coins haben.                 |
 
 
 
@@ -26,5 +26,18 @@
 | 3.1    |   3   |  muss | Als User möchte ich, dass zwei Geister direkt von vorne angreifen, um das Spiel zu anspruchsvoller zu machen.  |
 | 3.2    |   3   |  muss | Als User möchte ich, dass ein Geist von hinten angreift, um das Spiel zu anspruchsvoller zu machen.  |
 | 3.3    |   3   |  muss | Als User möchte ich, dass ein Geist aus verschiedenen Richtungen kommen kann, um das Spiel zu anspruchsvoller zu machen.  |
+| 3.4    |   3   |  muss | Als User möchte ich, der Spieler bei einer Kollision mit eienm Geist stirbt, um dem Spiel ein Ende zu setzen.  |
+| 3.5    |   3   |  muss | Als User möchte ich, dass gefressene Geister nach einer gewissen Zeit respawnend, um das Spiel zu anspruchsvoller zu machen.  |
 | 4.1    |   4   |  muss | Als User möchte ich, drei verschiedene Maps zur Auswahl haben, um Abwechslung in das Spiel zu bringen.  |
 | 4.2    |   4   |  muss | Als User möchte ich, drei verschiedene Schwierigkeitsgrade zur Auswahl haben, um das Spiel zu anspruchsvoller zu machen.  |
+| 5.1    |   5   |  muss | Als User möchte ich, Hintergrundmusik im Spiel haben, um das Spiel zu unterhaltsamer zu machen.  |
+| 5.2    |   5   |  muss | Als User möchte ich, einen Sound-Effect für den Tod der Spielfigur haben, um das Spiel zu unterhaltsamer zu machen.  |
+| 5.3    |   5   |  muss | Als User möchte ich, einen Sound-Effect für während des Power-ups der Spielfigur haben, um das Spiel zu unterhaltsamer zu machen.  |
+| 5.4    |   5   |  muss | Als User möchte ich, einen Sound-Effect für die Aktivierung des Power-ups haben, um das Spiel zu unterhaltsamer zu machen.  |
+| 5.5    |   5   |  muss | Als User möchte ich, einen Sound-Effect für den Tod eines Geistes haben, um das Spiel zu unterhaltsamer zu machen.  |
+| 7.1    |   7   |  muss | Als User möchte ich, in ein Item, welcher nach einer gewissen Zeit auf der Map spawnt, laufen könne, um das Power-Up zu aktiveren.  |
+| 7.2    |   7   |  muss | Als User möchte ich, während der Power-Up-Zeit Geister fressen können, um die Geister vorübergehend zu töten.  |
+| 8.1    |   8   |  muss | Als User möchte ich, dass der Highscore durchgehend angezeigt wird, um zu wissen wann ich ihn schlage.  |
+| 8.2    |   8   |  muss | Als User möchte ich, dass der der Score der letzen runde im Main-Screen angezeigt wird, um die Information zu haben.  |
+| 8.3    |   8   |  muss | Als User möchte ich, dass meine Anzahl Coins durchgehend angezeigt wird, um zu wissen wann ich mir einen Skin kaufen kann.  |
+
