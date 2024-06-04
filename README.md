@@ -8,10 +8,10 @@
 
 | Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Soll/Ist-Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
-| 07:30-08:30 | Projektplanung | Projektplanung | ✔️ |
-| 08:35-09:35 | Code-Entwicklung | Code-Entwicklung | ✔️ |
-| 09:40-10:40 | Code-Überprüfung | Code-Überprüfung und Debugging | ❌ |
-| 10:45-11:45 | Dokumentation | Dokumentation | ✔️ |
+| 07:30-08:30 | Anforderungsanalyse | Anforderungsanalyse | ✔️ |
+| 08:35-09:35 | User-Stories | User-Stories | ✔️ |
+| 09:40-10:40 | Arbeitsjournal | Arbeitsjournal | ✔️ |
+| 10:45-11:45 | Testfälle | Testfälle | ✔️ |
 
 ## Woche 2
 
@@ -19,9 +19,9 @@
 
 | Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Soll/Ist-Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
-| 07:30-08:30 | Projektplanung | Projektplanung | ✔️ |
-| 08:35-09:35 | Code-Entwicklung | Code-Entwicklung | ✔️ |
-| 09:40-10:40 | Code-Überprüfung | Code-Überprüfung und Debugging | ❌ |
+| 07:30-08:30 | Testfälle | Testfälle | ✔️ |
+| 08:35-09:35 | Arbeitspacket | Arbeitspacket | ✔️ |
+| 09:40-10:40 | Arbeitspacket | Arbeitspacket | ✔️ |
 | 10:45-11:45 | Dokumentation | Dokumentation | ✔️ |
 
 ## Woche 3
