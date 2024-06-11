@@ -6,7 +6,7 @@
 
 ### Dienstag, 14. Mai 2024
 
-| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Soll/Ist-Vergleich |
+| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
 | 07:30-08:30 | Anforderungsanalyse | Anforderungsanalyse | ✔️ |
 | 08:35-09:35 | User-Stories | User-Stories | ✔️ |
@@ -17,7 +17,7 @@
 
 ### Dienstag, 21. Mai 2024
 
-| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Soll/Ist-Vergleich |
+| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
 | 07:30-08:30 | Testfälle | Testfälle | ✔️ |
 | 08:35-09:35 | Arbeitspacket | Arbeitspacket | ✔️ |
@@ -28,7 +28,7 @@
 
 ### Dienstag, 28. Mai 2024
 
-| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Soll/Ist-Vergleich |
+| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
 | 07:30-08:30 | Zeitplan | Zeitplan | ✔️ |
 | 08:35-09:35 | Dokumentation | Dokumentation | ✔️ |
@@ -39,7 +39,7 @@
 
 ### Dienstag, 04. Juni 2024
 
-| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Soll/Ist-Vergleich |
+| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
 | 07:30-08:30 | Projektplanung | Projektplanung | ✔️ |
 | 08:35-09:35 | Code-Entwicklung | Code-Entwicklung | ✔️ |
@@ -50,7 +50,7 @@
 
 ### Dienstag, 11. Juni 2024
 
-| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Soll/Ist-Vergleich |
+| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
 | 07:30-08:30 | Projektplanung | Projektplanung | ✔️ |
 | 08:35-09:35 | Code-Entwicklung | Code-Entwicklung | ✔️ |
@@ -61,7 +61,7 @@
 
 ### Dienstag, 18. Juni 2024
 
-| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Soll/Ist-Vergleich |
+| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
 | 07:30-08:30 | Projektplanung | Projektplanung | ✔️ |
 | 08:35-09:35 | Code-Entwicklung | Code-Entwicklung | ✔️ |
@@ -72,7 +72,7 @@
 
 ### Dienstag, 24. Juni 2024
 
-| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Soll/Ist-Vergleich |
+| Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
 | 07:30-08:30 | Projektplanung | Projektplanung | ✔️ |
 | 08:35-09:35 | Code-Entwicklung | Code-Entwicklung | ✔️ |
