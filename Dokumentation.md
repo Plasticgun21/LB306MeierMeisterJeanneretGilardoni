@@ -1,5 +1,38 @@
 # LB306MeierMeisterJeanneretGilardoni
 
+# IPA Bericht
+
+## 1. Einleitung
+Dieser Bericht dokumentiert die Entwicklung eines Pac-Man-Spiels im Rahmen der individuellen Projektarbeit (IPA). Das Projekt zielt darauf ab, ein unterhaltsames und herausforderndes Pac-Man-Spiel zu erstellen, das verschiedene Kartenlayouts und Schwierigkeitsgrade sowie eine intuitive Benutzeroberfläche und ansprechende Musik und Soundeffekte bietet. Der Entwicklungsprozess wird durch die Anwendung der IPERKA-Methode unterstützt.
+
+## 2. Projektmanagement und Planung
+
+### 2.1 Gewählte Projektmanagement-Methode
+Für die Durchführung dieses Projekts wurde die IPERKA-Methode gewählt. Diese Methode eignet sich besonders gut für strukturierte und klar definierte Projekte, da sie einen klaren Ablauf in sechs Phasen bietet: Informieren, Planen, Entscheiden, Realisieren, Kontrollieren und Auswerten.
+
+### 2.2 Anwendung der Projektmanagement-Methode
+Die IPERKA-Methode wurde in der praktischen Arbeit durch folgende Maßnahmen angewandt:
+
+- **Informieren:** Sammlung und Analyse von Informationen zu den Anforderungen und Zielen des Projekts.
+- **Planen:** Erstellung eines detaillierten Projektplans mit Meilensteinen und Aufgaben.
+- **Entscheiden:** Auswahl der besten Vorgehensweise und Technologien für die Umsetzung.
+- **Realisieren:** Entwicklung und Implementierung des Pac-Man-Spiels gemäß den Anforderungen.
+- **Kontrollieren:** Überprüfung der Fortschritte und Qualitätssicherung durch Tests.
+- **Auswerten:** Reflexion über das Projekt, Dokumentation der Ergebnisse und Lessons Learned.
+
+### 2.3 Dokumentation der korrekten Anwendung im IPA-Bericht
+Die korrekte Anwendung der IPERKA-Methode ist in diesem Bericht dokumentiert durch:
+- Detaillierte Beschreibung der durchgeführten Aktivitäten in jeder Phase.
+- Protokolle und Dokumentationen der Planungs- und Entscheidungsprozesse.
+- Testergebnisse und Qualitätskontrollen.
+- Reflexion und Auswertung des gesamten Projektverlaufs.
+
+### 2.4 Weitergehende Analyse und Verfeinerung des Auftrags
+Der Auftrag wurde ausgehend von der ursprünglichen Aufgabenstellung weiter analysiert und verfeinert durch:
+- Identifizierung und Beschreibung der Kernfunktionen des Spiels.
+- Entwicklung detaillierter User Stories und Akzeptanzkriterien.
+- Kontinuierliche Rücksprache mit dem Auftraggeber, um sicherzustellen, dass das Endprodukt den Anforderungen entspricht.
+
 ## Informieren
 
 ## Anforderungsanalyse
@@ -151,3 +184,35 @@
 | 08:35-09:35 | Code-Entwicklung | Code-Entwicklung | ✔️ |
 | 09:40-10:40 | Code-Überprüfung | Code-Überprüfung und Debugging | ❌ |
 | 10:45-11:45 | Dokumentation | Dokumentation | ✔️ |
+
+## 6. Projektumfeld
+
+### 6.1 Systemgrenzen / Schnittstellen zur Aussenwelt
+Das Projekt ist eingebettet in ein Umfeld, das verschiedene Systemgrenzen und Schnittstellen umfasst. Diese sind dokumentiert und umfassen:
+- **Systemgrenzen:** Die Grenzen des Projekts sind durch die Anforderungen und Ziele des Pac-Man-Spiels definiert. Dazu gehört die Implementierung der Spielmechanik, Benutzeroberfläche, Musik und Soundeffekte sowie die Integration von Power-Ups und Highscore-Anzeigen.
+- **Schnittstellen zur Aussenwelt:** Das Projekt interagiert mit verschiedenen externen Komponenten wie der Entwicklungsumgebung, Drittanbieter-Bibliotheken für Musik und Soundeffekte sowie Plattformen zur Verteilung und Veröffentlichung des Spiels.
+
+### 6.2 Abgrenzung und Beschreibung des Auftragsumfelds
+Der Kandidat kennt die Abgrenzung seines Auftrages zum Umfeld und kann dieses beschreiben. Allfällige Schnittstellen sind ihm im Detail bekannt und dokumentiert. Dazu gehört:
+- **Entwicklungsumgebung:** Verwendung von Software-Tools und Entwicklungsplattformen, die für die Umsetzung des Spiels erforderlich sind.
+- **Drittanbieter-Bibliotheken:** Integration von Bibliotheken für Musik, Soundeffekte und eventuell grafische Elemente.
+- **Veröffentlichungsplattformen:** Planung der Veröffentlichung des Spiels auf geeigneten Plattformen wie Steam, App Store oder Google Play Store.
+
+## 7. Arbeits- und Fachmethodik
+
+### 7.1 Auswahl und Anwendung der Fachmethoden
+Es wurden der jeweiligen Aufgabe entsprechend die richtigen Arbeits- und Fachmethoden korrekt angewendet. Dazu gehören:
+- **Programmiersprachen:** Auswahl geeigneter Programmiersprachen (z.B. JavaScript, Python) für die Entwicklung des Spiels.
+- **Entwicklungsumgebung:** Verwendung einer geeigneten IDE (Integrated Development Environment) zur effizienten Programmierung und Fehlersuche.
+- **Versionskontrolle:** Einsatz von Versionskontrollsystemen (z.B. Git), um den Code zu verwalten und Änderungen nachzuverfolgen.
+- **Testmethoden:** Anwendung von Testmethoden zur Überprüfung der Spielmechanik und zur Sicherstellung der Qualität (z.B. Unit-Tests, Integrationstests).
+- **Dokumentation:** Detaillierte Dokumentation des Entwicklungsprozesses, der verwendeten Technologien und der durchgeführten Tests.
+
+### 7.2 Vollständige Umsetzung der Methoden
+Die ausgewählten Fachmethoden und Arbeitstechniken wurden korrekt angewandt und vollständig umgesetzt. Dies wird durch folgende Maßnahmen sichergestellt:
+- **Regelmäßige Überprüfungen:** Regelmäßige Reviews und Code-Überprüfungen, um die Einhaltung der Methoden sicherzustellen.
+- **Tests:** Umfassende Tests, um die Funktionalität und Qualität des Spiels zu gewährleisten.
+- **Dokumentation:** Detaillierte und vollständige Dokumentation aller Arbeitsschritte, Entscheidungen und Ergebnisse.
+
+## 8. Zusammenfassung und Ausblick
+Das Projekt Pac-Man-Spiel wurde erfolgreich umgesetzt, wobei die IPERKA-Methode als Projektmanagement-Methode angewandt wurde. Alle Anforderungen wurden erfüllt und die Ergebnisse wurden dokumentiert. Der Entwicklungsprozess und die verwendeten Methoden wurden kontinuierlich überprüft und optimiert. Zukünftige Projekte können von den gewonnenen Erkenntnissen und Erfahrungen profitieren, um noch effizienter und effektiver durchgeführt zu werden.
