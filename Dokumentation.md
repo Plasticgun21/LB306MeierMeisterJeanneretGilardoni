@@ -44,6 +44,8 @@
 | 8.3    |   8   |  muss | Als User möchte ich, dass meine Anzahl Coins durchgehend angezeigt wird, um zu wissen wann ich mir einen Skin kaufen kann.  |
 
 
+## Planen
+
 
 ## Testfälle
 
