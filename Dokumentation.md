@@ -49,68 +49,29 @@
 
 ## Testfälle
 
-### TF-№: 1.1.1
-US-№: 1.1
-
-Ausgangslage: Spielfigur an Abzweigung nach links angekommen
-
-Input: 1. 'ArrowLeft' | 
-Output: 2. Spielfigur ändert Richtung nach links
-
-
-### TF-№: 1.1.2
-US-№: 1.1
-
-Ausgangslage: Spielfigur an Abzweigung nach rechts angekommen
-
-Input: 1. 'ArrowRight' | 
-Output: 2. Spielfigur ändert Richtung nach rechts
-
-
-### TF-№: 1.1.3
-US-№: 1.1
-
-Ausgangslage: Spielfigur an Abzweigung nach oben angekommen
-
-Input: 1. 'ArrowUp' | 
-Output: 2. Spielfigur ändert Richtung nach oben
-
-
-### TF-№: 1.1.4
-US-№: 1.1
-
-Ausgangslage: Spielfigur an Abzweigung nach unten angekommen
-
-Input: 1. 'ArrowDown' | 
-Output: 2. Spielfigur ändert Richtung nach unten
-
-
-### TF-№: 1.2.1
-US-№: 1.2
-
-Ausgangslage: Spiel gestartet + keine Verzweigung
-
-Input: 'ArrowRight' | 
-Output: -
-
-
-### TF-№: 2.1.1
-US-№: 2.1
-
-Ausgangslage: Runde beendet mit 20 Punkten 
-
-Input: - | 
-Output: 1. +10 Coins
-
-
-### TF-№: 
-US-№: 
-
-Ausgangslage: 
-
-Input:  | 
-Output: 
-
+| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| ---- | ------------ | ------- | ----------------- |
+| 1.1  | PC ist gestartet | Applikation öffnen | Applikation öffnet sich. |
+| 1.2  | Applikation ist geöffnet, Pac-Man ist auf der Map | Pfeiltasten nach oben, unten, rechts, links drücken | Pac-Man ändert die Richtung entsprechend der Eingabe. |
+| 1.3  | Applikation ist geöffnet, Pac-Man ist am Rand der Bahn | Pfeiltaste drücken, um die Bahn zu verlassen | Pac-Man bleibt innerhalb der Bahn. |
+| 2.1  | Pac-Man sammelt Punkte | Punkte sammeln | In-Game-Coins werden entsprechend der gesammelten Punkte gutgeschrieben. |
+| 3.1  | Spiel ist gestartet, Geister sind auf der Map | Spiel läuft | Zwei Geister greifen direkt von vorne an. |
+| 3.2  | Spiel ist gestartet, Geister sind auf der Map | Spiel läuft | Ein Geist greift von hinten an. |
+| 3.3  | Spiel ist gestartet, Geister sind auf der Map | Spiel läuft | Ein Geist greift aus verschiedenen Richtungen an. |
+| 3.4  | Pac-Man trifft auf einen Geist | Spiel läuft | Pac-Man stirbt bei der Kollision mit einem Geist. |
+| 3.5  | Pac-Man hat einen Geist gefressen | Spiel läuft | Gefressener Geist respawnt nach einer bestimmten Zeit. |
+| 4.1  | Applikation ist geöffnet | Drei verschiedene Maps zur Auswahl haben | Benutzer kann zwischen drei verschiedenen Maps wählen. |
+| 4.2  | Applikation ist geöffnet | Drei verschiedene Schwierigkeitsgrade zur Auswahl haben | Benutzer kann zwischen drei verschiedenen Schwierigkeitsgraden wählen. |
+| 5.1  | Applikation ist geöffnet | Spiel starten | Hintergrundmusik spielt während des Spiels. |
+| 5.2  | Pac-Man stirbt im Spiel | Spiel läuft | Sound-Effekt für den Tod der Spielfigur wird abgespielt. |
+| 5.3  | Pac-Man aktiviert ein Power-up | Spiel läuft | Sound-Effekt für die Aktivierung des Power-ups wird abgespielt. |
+| 5.4  | Pac-Man hat ein Power-up | Spiel läuft | Sound-Effekt für die Power-up-Zeit wird abgespielt. |
+| 5.5  | Pac-Man frisst einen Geist während des Power-ups | Spiel läuft | Sound-Effekt für den Tod des Geistes wird abgespielt. |
+| 7.1  | Spiel ist gestartet, ein Power-up erscheint auf der Map | Pac-Man läuft in das Power-up | Power-up wird aktiviert. |
+| 7.2  | Pac-Man hat ein aktives Power-up | Pac-Man trifft auf einen Geist | Pac-Man frisst den Geist und der Geist wird vorübergehend getötet. |
+| 8.1  | Spiel ist gestartet | Spiel läuft | Highscore wird durchgehend angezeigt. |
+| 8.2  | Spiel ist vorbei | Zum Main-Screen wechseln | Score der letzten Runde wird im Main-Screen angezeigt. |
+| 8.3  | Spiel ist gestartet | Spiel läuft | Anzahl Coins wird durchgehend angezeigt. |
 
 ## Zeitplan
 
