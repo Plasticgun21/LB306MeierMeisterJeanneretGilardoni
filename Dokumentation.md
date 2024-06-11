@@ -1,5 +1,6 @@
 # LB306MeierMeisterJeanneretGilardoni
 
+## Informieren
 
 ## Anforderungsanalyse
  
