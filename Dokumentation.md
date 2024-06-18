@@ -183,7 +183,7 @@
 
 ### 3.1 Präferenzmatrix
 
-Ziel 1: Das Spiel ist spielbar
+Ziel 1: Spielbarkeit
 Ziel 2: Highscore
 Ziel 3: Musik und Soundeffect
 Ziel 4: Replayability
@@ -207,6 +207,15 @@ Kontrolle    (5 * (5-1)) : 2 = 10
 | Prozent|   40   |    30   |    10   |    20   |    -    |
 | Rang   |   1    |    2    |    4    |    3    |    -    |
 
+### 3.2 Nutzwertanalyse
+
+|        |        | Langsam | Mittel | Schnell |
+|--------|--------|--------|--------|--------|
+|Kriterien|Gewichtung|TN/GTN|TN/GTN |TN/GTN|
+|Spielbarkeit| 40%|         |        |         |
+|Highscore| 30%   |         |        |         |
+|Musik und Soundeffect|10%|     |    |         |
+|Replayability| 20%|        |        |         |
 
 ## 4. Realisieren
 
