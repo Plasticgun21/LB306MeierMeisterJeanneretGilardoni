@@ -42,6 +42,40 @@
 
 ## 2. Planen
 
+### 4.1 Arbeitspakete
+
+### 4.1 Arbeitspakete
+
+| AP-№  | Frist      | Zuständig       | Beschreibung                                                                | Geplante Zeit |
+| ----- | ---------- | --------------- | --------------------------------------------------------------------------- | ------------- |
+| 1     | KW 1       | Projektleiter   | Erstellung des Projektplans und Festlegung der Meilensteine                 | 90 min        |
+| 1.1   | KW 2       | Teammitglied C  | Detaillierte Anforderungsanalyse und Erstellung der User Stories            | 120 min       |
+| 1.2   | KW 2       | Teammitglied D  | Erstellung der Arbeitspakete                                                | 45 min        |
+| 1.3   | KW 3       | Teammitglied F  | Erstellung des Zeitplans                                                    | 105 min       |
+| 1.4   | KW 3       | Teammitglied G  | Erstellung der Testfälle                                                    | 75 min        |
+| 2     | KW 3       | Teammitglied H  | Kartenlayout machen                                                         | 60 min        |
+| 3     | KW 4       | Teammitglied I  | Implementierung der Steuerung und Bewegungsmuster der Geister               | 90 min        |
+| 3.1   | KW 4       | Teammitglied J  | Entwicklung der Steuerung von Pac-Man                                       | 75 min        |
+| 3.2   | KW 4       | Teammitglied K  | Programmierung der Bewegungsmuster der Geister                              | 90 min        |
+| 4     | KW 5       | Teammitglied L  | Entwicklung des Punkte- und Belohnungssystems                               | 105 min       |
+| 4.1   | KW 5       | Teammitglied M  | Design der Punktevergabe                                                    | 60 min        |
+| 4.2   | KW 5       | Teammitglied N  | Integration der Belohnungen und Feedbackmechanismen                         | 90 min        |
+| 5     | KW 6       | Teammitglied O  | Einbindung von Musik und Soundeffekten                                      | 105 min       |
+| 5.1   | KW 6       | Teammitglied P  | Auswahl und Lizenzierung der Musik und Soundeffekte                         | 45 min        |
+| 5.2   | KW 6       | Teammitglied Q  | Implementierung der Soundeffekte im Spiel                                   | 75 min        |
+| 6     | KW 7       | Teammitglied R  | Gestaltung der Benutzeroberfläche                                           | 120 min       |
+| 6.1   | KW 7       | Teammitglied S  | Erstellung von UI-Mockups                                                   | 60 min        |
+| 6.2   | KW 7       | Teammitglied T  | Entwicklung und Implementierung der finalen Benutzeroberfläche              | 105 min       |
+| 7     | KW 8       | Teammitglied U  | Durchführung von Tests und Debugging                                        | 90 min        |
+| 7.1   | KW 8       | Teammitglied V  | Erstellung eines Testplans                                                  | 45 min        |
+| 7.2   | KW 8       | Teammitglied W  | Durchführung der Tests und Fehlerbehebung                                   | 75 min        |
+| 8     | KW 9       | Teammitglied X  | Dokumentation der Testergebnisse und Qualitätskontrolle                     | 105 min       |
+| 8.1   | KW 9       | Teammitglied Y  | Erstellung eines Testberichts                                               | 60 min        |
+| 8.2   | KW 9       | Teammitglied Z  | Durchführung einer abschließenden Qualitätsprüfung                          | 90 min        |
+| 9     | KW 10      | Projektleiter   | Reflexion und Auswertung des Projekts                                       | 75 min        |
+| 9.1   | KW 10      | Projektleiter   | Präsentation vorbereiten                                                    | 30 min        |
+| 9.2   | KW 10      | Projektleiter   | Präsentation vortragen                                                      | 60 min        |
+
 ## Zeitplan
 
 ## Woche 1
