@@ -216,6 +216,7 @@ Kontrolle    (5 * (5-1)) : 2 = 10
 |Highscore| 30%   |         |        |         |
 |Musik und Soundeffect|10%|     |    |         |
 |Replayability| 20%|        |        |         |
+|Gesamtnutzen| 100%|        |        |         | 
 
 ## 4. Realisieren
 
