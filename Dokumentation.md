@@ -212,11 +212,11 @@ Kontrolle    (5 * (5-1)) : 2 = 10
 |        |        | Langsam | Mittel | Schnell |
 |--------|--------|--------|--------|--------|
 |Kriterien|Gewichtung|TN/GTN|TN/GTN |TN/GTN|
-|Spielbarkeit| 40%|         |        |         |
-|Highscore| 30%   |         |        |         |
-|Musik und Soundeffect|10%|     |    |         |
-|Replayability| 20%|        |        |         |
-|Gesamtnutzen| 100%|        |        |         | 
+|Spielbarkeit| 40%|   6/240 |    10/400|   6|240   |
+|Highscore| 30%   |    5/150     |    5/150 |     5/150 |
+|Musik und Soundeffect|10%|   2/20  |  8/80  |     10/100    |
+|Replayability| 20%|    1/20    |     6/120   |     8/160    |
+|Gesamtnutzen| 100%|    430    |   750   |   650     | 
 
 ## 4. Realisieren
 
