@@ -46,26 +46,25 @@
 
 ### 4.1 Arbeitspakete
 
-| AP-№  | Frist      | Zuständig       | Beschreibung                                                                | Geplante Zeit |
-| ----- | ---------- | --------------- | --------------------------------------------------------------------------- | ------------- |
-| 1     | KW 1       | Projektleiter   | Erstellung des Projektplans und Festlegung der Meilensteine                 | 90 min        |
-| 1.1   | KW 2       | Teammitglied C  | Detaillierte Anforderungsanalyse und Erstellung der User Stories            | 120 min       |
-| 1.2   | KW 2       | Teammitglied D  | Erstellung der Arbeitspakete                                                | 45 min        |
-| 1.3   | KW 3       | Teammitglied F  | Erstellung des Zeitplans                                                    | 105 min       |
-| 1.4   | KW 3       | Teammitglied G  | Erstellung der Testfälle                                                    | 75 min        |
-| 2     | KW 3       | Teammitglied H  | Kartenlayout machen                                                         | 60 min        |
-| 3     | KW 4       | Teammitglied I  | Implementierung der Steuerung und Bewegungsmuster der Geister               | 90 min        |
-| 3.1   | KW 4       | Teammitglied J  | Entwicklung der Steuerung von Pac-Man                                       | 75 min        |
-| 3.2   | KW 4       | Teammitglied K  | Programmierung der Bewegungsmuster der Geister                              | 90 min        |
-| 4     | KW 5       | Teammitglied L  | Entwicklung des Punkte- und Belohnungssystems                               | 105 min       |
-| 4.1   | KW 5       | Teammitglied M  | Design der Punktevergabe                                                    | 60 min        |
-| 4.2   | KW 5       | Teammitglied N  | Integration der Belohnungen und Feedbackmechanismen                         | 90 min        |
-| 5     | KW 6       | Teammitglied O  | Einbindung von Musik und Soundeffekten                                      | 105 min       |
-| 5.1   | KW 6       | Teammitglied P  | Auswahl und Lizenzierung der Musik und Soundeffekte                         | 45 min        |
-| 5.2   | KW 6       | Teammitglied Q  | Implementierung der Soundeffekte im Spiel                                   | 75 min        |
-| 6     | KW 7       | Teammitglied R  | Gestaltung der Benutzeroberfläche                                           | 120 min       |
-| 6.1   | KW 7       | Teammitglied S  | Erstellung von UI-Mockups                                                   | 60 min        |
-| 6.2   | KW 7       | Teammitglied T  | Entwicklung und Implementierung der finalen Benutzeroberfläche              | 105 min       |
+| AP-№  | Zuständig      | Frist       | Beschreibung                                                                | Geplante Zeit |
+| ----- | -------------- | ----------- | --------------------------------------------------------------------------- | ------------- |
+| 1     | Jeanneret/Meister| 14.5.24     | Erstellung des Projektplans und Festlegung der Meilensteine               | 90 min        |
+| 1.1   | Jeanneret/Meister| 14.5.24     | Detaillierte Anforderungsanalyse und Erstellung der User Stories          | 120 min       |
+| 1.2   | Jeanneret/Meister| 21.5.24     | Erstellung der Arbeitspakete                                              | 45 min        |
+| 1.3   | Jeanneret/Meister| 21.5.24     | Erstellung des Zeitplans                                                  | 105 min       |
+| 1.4   | Jeanneret/Meister| 21.5.24     | Erstellung der Testfälle                                                  | 75 min        |
+| 2     | Meyer/Gilardoni  | 28.5.24     | Kartenlayout machen                                                       | 60 min        |
+| 3     | Meyer/Gilardoni  | 28.5.24     | Implementierung der Steuerung und Bewegungsmuster der Geister             | 90 min        |
+| 3.1   | Meyer/Gilardoni  | 28.5.24     | Entwicklung der Steuerung von Pac-Man                                     | 75 min        |
+| 3.2   | Meyer/Gilardoni  | 4.6.24      | Programmierung der Bewegungsmuster der Geister                            | 90 min        |
+| 4     | Meyer/Gilardoni  | 4.6.24      | Entwicklung des Punkte- und Belohnungssystems                             | 105 min       |
+| 4.1   | Meyer/Gilardoni  | 4.6.24      | Design der Punktevergabe                                                  | 60 min        |
+| 4.2   | Meyer/Gilardoni  | 4.6.24      | Integration der Belohnungen und Feedbackmechanismen                       | 90 min        |
+| 5     | Meyer/Gilardoni  | 11.6.24     | Einbindung von Musik und Soundeffekten                                    | 105 min       |
+| 5.1   | Meyer/Gilardoni  | 11.6.24     | Auswahl der Musik und Soundeffekte                                        | 45 min        |
+| 5.2   | Meyer/Gilardoni  | 11.6.24     | Implementierung der Soundeffekte im Spiel                                 | 75 min        |
+| 6     | Meyer/Gilardoni  | 18.6.24     | Gestaltung der Benutzeroberfläche                                         | 120 min       |
+| 6.1   | Meyer/Gilardoni  | 18.6.24     | Entwicklung und Implementierung der finalen Benutzeroberfläche            | 105 min       |
 | 7     | KW 8       | Teammitglied U  | Durchführung von Tests und Debugging                                        | 90 min        |
 | 7.1   | KW 8       | Teammitglied V  | Erstellung eines Testplans                                                  | 45 min        |
 | 7.2   | KW 8       | Teammitglied W  | Durchführung der Tests und Fehlerbehebung                                   | 75 min        |
