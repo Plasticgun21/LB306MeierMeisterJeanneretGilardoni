@@ -201,7 +201,8 @@ Ziel 5: Kompabilität
 
 Kontrolle    (5 * (5-1)) : 2 = 10
 
-|        | Ziel 1 |  Ziel 2 |  Ziel 3 |  Ziel 4 |  Ziel 5 | 
+|        | Ziel 1 |  Ziel 2 |  Ziel 3 |  Ziel 4 |  Ziel 5 |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | Faktor |   4    |    3    |    1    |    2    |    0    |
 | Prozent|   40   |    30   |    10   |    20   |    -    |
 | Rang   |   1    |    2    |    4    |    3    |    -    |
