@@ -42,9 +42,7 @@
 
 ## 2. Planen
 
-### 4.1 Arbeitspakete
-
-### 4.1 Arbeitspakete
+### 2.1 Arbeitspakete
 
 | AP-№  | Zuständig      | Frist       | Beschreibung                                                                | Geplante Zeit |
 | ----- | -------------- | ----------- | --------------------------------------------------------------------------- | ------------- |
@@ -75,7 +73,7 @@
 | 9.1   | KW 10      | Projektleiter   | Präsentation vorbereiten                                                    | 30 min        |
 | 9.2   | KW 10      | Projektleiter   | Präsentation vortragen                                                      | 60 min        |
 
-## Zeitplan
+## 2.2 Zeitplan 
 
 ## Woche 1
 
@@ -154,7 +152,7 @@
 | 09:40-10:40 | Code-Überprüfung | Code-Überprüfung und Debugging | ❌ |
 | 10:45-11:45 | Dokumentation | Dokumentation | ✔️ |
 
-### 4.1 Testfälle
+### 2.3 Testfälle
 
 | TC-№ | Ausgangslage                      | Eingabe                                               | Erwartete Ausgabe                                               |
 | ---- | --------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
@@ -180,9 +178,37 @@
 | 8.2  | Spiel ist zu Ende                 | Spiel ist beendet                                     | Score der letzten Runde wird im Main-Screen angezeigt.           |
 | 8.3  | Applikation ist geöffnet          | Spiel läuft                                           | Anzahl Coins wird durchgehend angezeigt.                         |
 
-## 5. Realisieren
 
-### 5.1 Technologien und Werkzeuge
+## 3. Entscheiden
+
+### 3.1 Präferenzmatrix
+
+Ziel 1: Das Spiel ist spielbar
+Ziel 2: Highscore
+Ziel 3: Musik und Soundeffect
+Ziel 4: Replayability
+Ziel 5: Kompabilität
+
+|        | Ziel 1 | Ziel 2 | Ziel 3 | Ziel 4 | Ziel 5 |
+| Ziel 1 |   -    |   1    |   1    |   1    |   1    |
+| Ziel 2 |   -    |   -    |   2    |   2    |   2    |
+| Ziel 3 |   -    |   -    |   -    |   4    |   3    |
+| Ziel 4 |   -    |   -    |   -    |   -    |   4    |
+| Ziel 5 |   -    |   -    |   -    |   -    |   -    |
+ 
+             4        3        1        2        0        =  10
+
+Kontrolle    (5 * (5-1)) : 2 = 10
+
+|        | Ziel 1 |  Ziel 2 |  Ziel 3 |  Ziel 4 |  Ziel 5 | 
+| Faktor |   4    |    3    |    1    |    2    |    0    |
+| Prozent|   40   |    30   |    10   |    20   |    -    |
+| Rang   |   1    |    2    |    4    |    3    |    -    |
+
+
+## 4. Realisieren
+
+### 4.1 Technologien und Werkzeuge
 Für die Entwicklung des Pac-Man-Spiels wurden die folgenden Technologien und Werkzeuge verwendet:
 
 - **Programmiersprache:** Python
@@ -190,7 +216,7 @@ Für die Entwicklung des Pac-Man-Spiels wurden die folgenden Technologien und We
 - **IDE:** Visual Studio Code
 - **Versionsverwaltung:** GitHub
 
-### 5.2 Implementierungsschritte
+### 4.2 Implementierungsschritte
 Die Implementierung des Pac-Man-Spiels erfolgte in den folgenden Schritten:
 
 1. **Erstellung des Spiellayouts:** Gestaltung der verschiedenen Kartenlayouts und Platzierung der Elemente (Pac-Man, Geister, Punkte, Power-ups).
@@ -200,7 +226,7 @@ Die Implementierung des Pac-Man-Spiels erfolgte in den folgenden Schritten:
 5. **Benutzeroberfläche:** Gestaltung der Benutzeroberfläche mit Anzeige von Punkten, Highscores und weiteren Informationen.
 6. **Tests und Debugging:** Durchführung von Tests zur Sicherstellung der Funktionalität und Behebung von Fehlern.
 
-### 5.3 Herausforderungen und Lösungen
+### 4.3 Herausforderungen und Lösungen
 Während der Umsetzung des Projekts traten verschiedene Herausforderungen auf, die wie folgt gelöst wurden:
 
 - **Herausforderung:** Synchronisation der Geisterbewegungen mit der Spielgeschwindigkeit.
@@ -209,9 +235,9 @@ Während der Umsetzung des Projekts traten verschiedene Herausforderungen auf, d
 - **Herausforderung:** Implementierung der Kollisionsabfrage zwischen Pac-Man und den Geistern.
   - **Lösung:** Verwendung von Pygame-Funktionen zur präzisen Kollisionsabfrage und Reaktion auf Kollisionen.
 
-## 6. Kontrollieren
+## 5. Kontrollieren
 
-### 6.1 Testprotokolle
+### 5.1 Testprotokolle
 Die Testergebnisse wurden in Testprotokollen dokumentiert, um die erfolgreiche Durchführung und das Bestehen der Tests nachzuweisen.
 
 | TC-№ | Ergebnis        | Bemerkungen                                           |
@@ -238,9 +264,9 @@ Die Testergebnisse wurden in Testprotokollen dokumentiert, um die erfolgreiche D
 | 8.2  | Bestanden       | Score der letzten Runde wird im Main-Screen angezeigt.|
 | 8.3  | Bestanden       | Anzahl Coins wird durchgehend angezeigt.              |
 
-## 7. Auswerten
+## 6. Auswerten
 
-### 7.1 Reflexion und Lessons Learned
+### 6.1 Reflexion und Lessons Learned
 Während des Projekts wurden wertvolle Erfahrungen gesammelt und wichtige Erkenntnisse gewonnen:
 
 - **Projektmanagement:** Die IPERKA-Methode hat sich als sehr effektiv erwiesen, um das Projekt strukturiert und zielgerichtet durchzuführen.
@@ -248,5 +274,5 @@ Während des Projekts wurden wertvolle Erfahrungen gesammelt und wichtige Erkenn
 - **Technische Fähigkeiten:** Die Arbeit an diesem Projekt hat die technischen Fähigkeiten in Python und Pygame erheblich verbessert.
 - **Qualitätssicherung:** Die Bedeutung von umfangreichen Tests und kontinuierlichem Debugging wurde deutlich, um ein qualitativ hochwertiges Endprodukt zu gewährleisten.
 
-### 7.2 Fazit
+### 6.2 Fazit
 Das Pac-Man-Projekt war ein großer Erfolg und hat alle gesetzten Ziele erreicht. Durch die Anwendung der IPERKA-Methode konnten alle Phasen des Projekts strukturiert und effizient durchgeführt werden. Die entwickelten Funktionen und Features des Spiels entsprechen den Anforderungen und bieten ein unterhaltsames und herausforderndes Spielerlebnis. Die gesammelten Erfahrungen und Erkenntnisse werden in zukünftigen Projekten von großem Nutzen sein.
