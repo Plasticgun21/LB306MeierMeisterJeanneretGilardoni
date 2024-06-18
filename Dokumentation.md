@@ -190,6 +190,7 @@ Ziel 4: Replayability
 Ziel 5: Kompabilität
 
 |        | Ziel 1 | Ziel 2 | Ziel 3 | Ziel 4 | Ziel 5 |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | Ziel 1 |   -    |   1    |   1    |   1    |   1    |
 | Ziel 2 |   -    |   -    |   2    |   2    |   2    |
 | Ziel 3 |   -    |   -    |   -    |   4    |   3    |
