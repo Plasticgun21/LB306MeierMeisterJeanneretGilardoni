@@ -1,8 +1,8 @@
 # LB306MeierMeisterJeanneretGilardoni
 
-## 3. Informieren
+## 1. Informieren
 
-### 3.1 Anforderungsanalyse
+### 1.1 Anforderungsanalyse
 
 | An-№ | Typ           | Beschreibung                                                                      |
 | ---- | ------------- | ---------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@
 | 7    | Funktional    | Das Spiel soll Power-ups haben, um temporäre Vorteile im Spiel zu erhalten.        |
 | 8    | Funktional    | Das Spiel soll eine Speicherung und Anzeige der besten Spielergebnisse haben.      |
 
-### 3.2 User-Storys
+### 1.2 User-Storys
 
 | US-№ | An-№ | Verbindlichkeit | Beschreibung                                                                 |
 | ---- | ---- | ---------------- | ---------------------------------------------------------------------------- |
@@ -40,9 +40,7 @@
 | 8.2  | 8    | muss             | Als User möchte ich, dass der Score der letzten Runde im Main-Screen angezeigt wird. |
 | 8.3  | 8    | muss             | Als User möchte ich, dass meine Anzahl Coins durchgehend angezeigt wird.     |
 
-## 4. Planen
-
-### 4.1 Testfälle
+## 2. Planen
 
 ## Zeitplan
 
@@ -122,6 +120,8 @@
 | 08:35-09:35 | Code-Entwicklung | Code-Entwicklung | ✔️ |
 | 09:40-10:40 | Code-Überprüfung | Code-Überprüfung und Debugging | ❌ |
 | 10:45-11:45 | Dokumentation | Dokumentation | ✔️ |
+
+### 4.1 Testfälle
 
 | TC-№ | Ausgangslage                      | Eingabe                                               | Erwartete Ausgabe                                               |
 | ---- | --------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
