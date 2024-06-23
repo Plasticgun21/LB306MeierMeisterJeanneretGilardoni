@@ -219,7 +219,12 @@ Kontrolle    (5 * (5-1)) : 2 = 10
 
 ## 4. Realisieren
 
-### 4.1 Technologien und Werkzeuge
+### 4.1 
+| AP-№ | Datum             | Zuständig   | geplante Zeit | tatsächliche Zeit |
+| ---- | ----------------- | ----------- | ------------- | ----------------- |
+| 1.A  | 20.6.24           | Jeanneret   | 20 min        | 40 min            |
+
+### 4.2 Technologien und Werkzeuge
 Für die Entwicklung des Pac-Man-Spiels wurden die folgenden Technologien und Werkzeuge verwendet:
 
 - **Programmiersprache:** Python
@@ -227,7 +232,7 @@ Für die Entwicklung des Pac-Man-Spiels wurden die folgenden Technologien und We
 - **IDE:** Visual Studio Code
 - **Versionsverwaltung:** GitHub
 
-### 4.2 Implementierungsschritte
+### 4.3 Implementierungsschritte
 Die Implementierung des Pac-Man-Spiels erfolgte in den folgenden Schritten:
 
 1. **Erstellung des Spiellayouts:** Gestaltung der verschiedenen Kartenlayouts und Platzierung der Elemente (Pac-Man, Geister, Punkte, Power-ups).
@@ -237,7 +242,7 @@ Die Implementierung des Pac-Man-Spiels erfolgte in den folgenden Schritten:
 5. **Benutzeroberfläche:** Gestaltung der Benutzeroberfläche mit Anzeige von Punkten, Highscores und weiteren Informationen.
 6. **Tests und Debugging:** Durchführung von Tests zur Sicherstellung der Funktionalität und Behebung von Fehlern.
 
-### 4.3 Herausforderungen und Lösungen
+### 4.4 Herausforderungen und Lösungen
 Während der Umsetzung des Projekts traten verschiedene Herausforderungen auf, die wie folgt gelöst wurden:
 
 - **Herausforderung:** Synchronisation der Geisterbewegungen mit der Spielgeschwindigkeit.
