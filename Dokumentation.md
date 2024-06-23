@@ -220,16 +220,40 @@ Kontrolle    (5 * (5-1)) : 2 = 10
 ## 4. Realisieren
 
 ### 4.1 
-| AP-№ | Datum             | Zuständig   | geplante Zeit | tatsächliche Zeit |
-| ---- | ----------------- | ----------- | ------------- | ----------------- |
-| 1.A  | 20.6.24           | Jeanneret   | 20 min        | 40 min            |
+| AP-№ | Datum     | Zuständig        | geplante Zeit | tatsächliche Zeit |
+| ---- | --------- | ---------------- | ------------- | ----------------- |
+| 1    | 14.5.24   | Jeanneret/Meister| 90 min        |      90 min             |
+| 1.1  | 14.5.24   | Jeanneret/Meister| 120 min       |     120 min              |
+| 1.2  | 21.5.24   | Jeanneret/Meister| 45 min        |      45 min             |
+| 1.3  | 21.5.24   | Jeanneret/Meister| 105 min       |      105 min             |
+| 1.4  | 21.5.24   | Jeanneret/Meister| 75 min        |      75 min             |
+| 2    | 21.5.24   | Jeanneret/Meister| 60 min        |      60 min             |
+| 3    | 28.5.24   | Meyer/Gilardoni  | 90 min        |       90 min            |
+| 3.1  | 28.5.24   | Meyer/Gilardoni  | 75 min        |      75 min             |
+| 3.2  | 28.5.24   | Meyer/Gilardoni  | 90 min        |       90 min            |
+| 4    | 28.5.24   | Meyer/Gilardoni  | 105 min       |       105 min            |
+| 4.1  | 4.6.24    | Meyer/Gilardoni  | 60 min        |        60 min           |
+| 4.2  | 4.6.24    | Meyer/Gilardoni  | 90 min        |       90 min            |
+| 5    | 4.6.24    | Meyer/Gilardoni  | 105 min       |       105 min            |
+| 5.1  | 4.6.24    | Meyer/Gilardoni  | 45 min        |       45 min            |
+| 5.2  | 4.6.24    | Meyer/Gilardoni  | 75 min        |       75 min            |
+| 6    | 11.6.24   | Meyer/Gilardoni  | 120 min       |        120 min           |
+| 6.1  | 11.6.24   | Meyer/Gilardoni  | 105 min       |       105 min            |
+| 7    | 11.6.24   | Jeanneret/Meister| 90 min        |        90 min           |
+| 7.1  | 11.6.24   | alle             | 75 min        |        75 min           |
+| 8    | 18.6.24   | Jeanneret/Meister| 105 min       |         105 min          |
+| 8.1  | 18.6.24   | Jeanneret/Meister| 60 min        |           60 min         |
+| 8.2  | 18.6.24   | Meyer/Gilardoni  | 90 min        |           90 min        |
+| 9    | 18.6.24   | Jeanneret/Meister| 75 min        |          75 min         |
+| 9.1  | 18.6.24   | Gilardoni        | 30 min        |           30 min        |
+| 9.2  | 25.6.24   | alle             | 60 min        |           60 min         |
 
 ### 4.2 Technologien und Werkzeuge
 Für die Entwicklung des Pac-Man-Spiels wurden die folgenden Technologien und Werkzeuge verwendet:
 
-- **Programmiersprache:** Python
-- **Frameworks:** Pygame
-- **IDE:** Visual Studio Code
+- **Programmiersprache:** C#
+- **Frameworks:** Microsoft VPF
+- **IDE:** Microsoft Visual Studio 2022
 - **Versionsverwaltung:** GitHub
 
 ### 4.3 Implementierungsschritte
