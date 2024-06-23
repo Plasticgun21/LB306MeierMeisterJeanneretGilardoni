@@ -51,27 +51,26 @@
 | 1.2   | Jeanneret/Meister| 21.5.24     | Erstellung der Arbeitspakete                                              | 45 min        |
 | 1.3   | Jeanneret/Meister| 21.5.24     | Erstellung des Zeitplans                                                  | 105 min       |
 | 1.4   | Jeanneret/Meister| 21.5.24     | Erstellung der Testfälle                                                  | 75 min        |
-| 2     | Meyer/Gilardoni  | 28.5.24     | Kartenlayout machen                                                       | 60 min        |
+| 2     | Meyer/Gilardoni  | 21.5.24     | Kartenlayout machen                                                       | 60 min        |
 | 3     | Meyer/Gilardoni  | 28.5.24     | Implementierung der Steuerung und Bewegungsmuster der Geister             | 90 min        |
 | 3.1   | Meyer/Gilardoni  | 28.5.24     | Entwicklung der Steuerung von Pac-Man                                     | 75 min        |
-| 3.2   | Meyer/Gilardoni  | 4.6.24      | Programmierung der Bewegungsmuster der Geister                            | 90 min        |
-| 4     | Meyer/Gilardoni  | 4.6.24      | Entwicklung des Punkte- und Belohnungssystems                             | 105 min       |
+| 3.2   | Meyer/Gilardoni  | 28.5.24       | Programmierung der Bewegungsmuster der Geister                            | 90 min        |
+| 4     | Meyer/Gilardoni  | 28.5.24      | Entwicklung des Punkte- und Belohnungssystems                             | 105 min       |
 | 4.1   | Meyer/Gilardoni  | 4.6.24      | Design der Punktevergabe                                                  | 60 min        |
 | 4.2   | Meyer/Gilardoni  | 4.6.24      | Integration der Belohnungen und Feedbackmechanismen                       | 90 min        |
-| 5     | Meyer/Gilardoni  | 11.6.24     | Einbindung von Musik und Soundeffekten                                    | 105 min       |
-| 5.1   | Meyer/Gilardoni  | 11.6.24     | Auswahl der Musik und Soundeffekte                                        | 45 min        |
-| 5.2   | Meyer/Gilardoni  | 11.6.24     | Implementierung der Soundeffekte im Spiel                                 | 75 min        |
-| 6     | Meyer/Gilardoni  | 18.6.24     | Gestaltung der Benutzeroberfläche                                         | 120 min       |
-| 6.1   | Meyer/Gilardoni  | 18.6.24     | Entwicklung und Implementierung der finalen Benutzeroberfläche            | 105 min       |
-| 7     | KW 8       | Teammitglied U  | Durchführung von Tests und Debugging                                        | 90 min        |
-| 7.1   | KW 8       | Teammitglied V  | Erstellung eines Testplans                                                  | 45 min        |
-| 7.2   | KW 8       | Teammitglied W  | Durchführung der Tests und Fehlerbehebung                                   | 75 min        |
-| 8     | KW 9       | Teammitglied X  | Dokumentation der Testergebnisse und Qualitätskontrolle                     | 105 min       |
-| 8.1   | KW 9       | Teammitglied Y  | Erstellung eines Testberichts                                               | 60 min        |
-| 8.2   | KW 9       | Teammitglied Z  | Durchführung einer abschließenden Qualitätsprüfung                          | 90 min        |
-| 9     | KW 10      | Projektleiter   | Reflexion und Auswertung des Projekts                                       | 75 min        |
-| 9.1   | KW 10      | Projektleiter   | Präsentation vorbereiten                                                    | 30 min        |
-| 9.2   | KW 10      | Projektleiter   | Präsentation vortragen                                                      | 60 min        |
+| 5     | Meyer/Gilardoni  | 4.6.24    | Einbindung von Musik und Soundeffekten                                    | 105 min       |
+| 5.1   | Meyer/Gilardoni  | 4.6.24     | Auswahl der Musik und Soundeffekte                                        | 45 min        |
+| 5.2   | Meyer/Gilardoni  | 4.6.24     | Implementierung der Soundeffekte im Spiel                                 | 75 min        |
+| 6     | Meyer/Gilardoni  | 11.6.24     | Gestaltung der Benutzeroberfläche                                         | 120 min       |
+| 6.1   | Meyer/Gilardoni  | 11.6.24     | Entwicklung und Implementierung der finalen Benutzeroberfläche            | 105 min       |
+| 7     | Jeanneret/Meister       | Teammitglied U  | Durchführung von Tests und Debugging                                        | 90 min        |
+| 7.1   | alle      | 11.6.24  | Durchführung der Tests und Fehlerbehebung                                   | 75 min        |
+| 8     | Jeanneret/Meister       | 18.6.24 | Dokumentation der Testergebnisse und Qualitätskontrolle                     | 105 min       |
+| 8.1   | Jeanneret/Meister       | 18.6.24  | Erstellung eines Testberichts                                               | 60 min        |
+| 8.2   | Meyer/Gilardoni       | 18.6.24  | Durchführung einer abschließenden Qualitätsprüfung                          | 90 min        |
+| 9     | Jeanneret/Meister      | 18.6.24   | Reflexion und Auswertung des Projekts                                       | 75 min        |
+| 9.1   | Gilardoni      |  18.6.24  | Präsentation vorbereiten                                                    | 30 min        |
+| 9.2   | alle      |  25.6.24  | Präsentation vortragen                                                      | 60 min        |
 
 ## 2.2 Zeitplan 
 
