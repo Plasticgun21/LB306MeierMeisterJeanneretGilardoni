@@ -278,7 +278,6 @@ Während der Umsetzung des Projekts traten verschiedene Herausforderungen auf, d
 ## 5. Kontrollieren
 
 ### 5.1 Testprotokolle
-Die Testergebnisse wurden in Testprotokollen dokumentiert, um die erfolgreiche Durchführung und das Bestehen der Tests nachzuweisen.
 
 | TC-№ | Ergebnis        | Bemerkungen                                           |
 | ---- | --------------- | ----------------------------------------------------- |
@@ -303,6 +302,9 @@ Die Testergebnisse wurden in Testprotokollen dokumentiert, um die erfolgreiche D
 | 8.1  | Bestanden       | Highscore wird durchgehend angezeigt.                 |
 | 8.2  | Bestanden       | Score der letzten Runde wird im Main-Screen angezeigt.|
 | 8.3  | Bestanden       | Anzahl Coins wird durchgehend angezeigt.              |
+
+### 5.2 Testbericht
+Alle Testfälle wurden erfolgreich bestanden, was auf eine stabile und fehlerfreie Implementierung hinweist. Die Applikation erfüllt die definierten Anforderungen und bietet eine reibungslose Benutzererfahrung. Es sind keine weiteren Anpassungen oder Fehlerbehebungen notwendig. Die nächste Phase des Projekts kann begonnen werden.
 
 ## 6. Auswerten
 
