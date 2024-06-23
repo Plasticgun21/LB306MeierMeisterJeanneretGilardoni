@@ -51,7 +51,7 @@
 | 1.2   | Jeanneret/Meister| 21.5.24     | Erstellung der Arbeitspakete                                              | 45 min        |
 | 1.3   | Jeanneret/Meister| 21.5.24     | Erstellung des Zeitplans                                                  | 105 min       |
 | 1.4   | Jeanneret/Meister| 21.5.24     | Erstellung der Testfälle                                                  | 75 min        |
-| 2     | Meyer/Gilardoni  | 21.5.24     | Kartenlayout machen                                                       | 60 min        |
+| 2     | Jeanneret/Meister  | 21.5.24     | Entscheiden                                                       | 60 min        |
 | 3     | Meyer/Gilardoni  | 28.5.24     | Implementierung der Steuerung und Bewegungsmuster der Geister             | 90 min        |
 | 3.1   | Meyer/Gilardoni  | 28.5.24     | Entwicklung der Steuerung von Pac-Man                                     | 75 min        |
 | 3.2   | Meyer/Gilardoni  | 28.5.24       | Programmierung der Bewegungsmuster der Geister                            | 90 min        |
@@ -82,8 +82,8 @@
 |:---------:|:------------------:|:----------------------:|:------------------:|
 | 07:30-08:30 | Anforderungsanalyse | Anforderungsanalyse | ✔️ |
 | 08:35-09:35 | User-Stories | User-Stories | ✔️ |
-| 09:40-10:40 | Arbeitsjournal | Arbeitsjournal | ✔️ |
-| 10:45-11:45 | Testfälle | Testfälle | ✔️ |
+| 09:40-10:40 | User-Stories | User-Stories | ✔️ |
+| 10:45-11:45 | Arbeitsjournal | Arbeitsjournal | ✔️ |
 
 ## Woche 2
 
@@ -91,10 +91,10 @@
 
 | Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
-| 07:30-08:30 | Testfälle | Testfälle | ✔️ |
-| 08:35-09:35 | Arbeitspacket | Arbeitspacket | ✔️ |
+| 07:30-08:30 | Arbeitspakete | Arbeitspakete | ✔️ |
+| 08:35-09:35 | Arbeitspakete | Arbeitspakete | ✔️ |
 | 09:40-10:40 | Arbeitspacket | Arbeitspacket | ✔️ |
-| 10:45-11:45 | Zeitplan | Zeitplan | ✔️ |
+| 10:45-11:45 | Entscheiden | Entscheiden | ✔️ |
 
 ## Woche 3
 
@@ -102,10 +102,10 @@
 
 | Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
-| 07:30-08:30 | Zeitplan | Zeitplan | ✔️ |
-| 08:35-09:35 | Dokumentation | Dokumentation | ✔️ |
-| 09:40-10:40 | Dokumentation | Dokumentation | ✔️ |
-| 10:45-11:45 | Dokumentation | Dokumentation | ✔️ |
+| 07:30-08:30 | Code | Code | ✔️ |
+| 08:35-09:35 | Code | Code | ✔️ |
+| 09:40-10:40 | Code | Code | ✔️ |
+| 10:45-11:45 | Arbeitsjournal | Arbeitsjournal | ✔️ |
 
 ## Woche 4
 
@@ -113,10 +113,10 @@
 
 | Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
-| 07:30-08:30 | Projektplanung | Projektplanung | ✔️ |
-| 08:35-09:35 | Code-Entwicklung | Code-Entwicklung | ✔️ |
-| 09:40-10:40 | Code-Überprüfung | Code-Überprüfung und Debugging | ❌ |
-| 10:45-11:45 | Dokumentation | Dokumentation | ✔️ |
+| 07:30-08:30 | Code | Code | ✔️ |
+| 08:35-09:35 | Code | Code | ✔️ |
+| 09:40-10:40 | Code | Code | ✔️ |
+| 10:45-11:45 | Arbeitsjournal | Arbeitsjournal | ✔️ |
 
 ## Woche 5
 
@@ -124,10 +124,10 @@
 
 | Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
-| 07:30-08:30 | Projektplanung | Projektplanung | ✔️ |
-| 08:35-09:35 | Code-Entwicklung | Code-Entwicklung | ✔️ |
-| 09:40-10:40 | Code-Überprüfung | Code-Überprüfung und Debugging | ❌ |
-| 10:45-11:45 | Dokumentation | Dokumentation | ✔️ |
+| 07:30-08:30 | Code | Code | ✔️ |
+| 08:35-09:35 | Code | Code | ✔️ |
+| 09:40-10:40 | Code | Code | ✔️ |
+| 10:45-11:45 | Arbeitsjournal | Arbeitsjournal | ✔️ |
 
 ## Woche 6
 
@@ -135,10 +135,10 @@
 
 | Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
-| 07:30-08:30 | Projektplanung | Projektplanung | ✔️ |
-| 08:35-09:35 | Code-Entwicklung | Code-Entwicklung | ✔️ |
-| 09:40-10:40 | Code-Überprüfung | Code-Überprüfung und Debugging | ❌ |
-| 10:45-11:45 | Dokumentation | Dokumentation | ✔️ |
+| 07:30-08:30 | Testbericht | Testbericht | ✔️ |
+| 08:35-09:35 | Auswerten | Auswerten | ✔️ |
+| 09:40-10:40 | Präsenationvorbereitung | Präsenationvorbereitung | ✔️ |
+| 10:45-11:45 | Arbeitsjournal | Arbeitsjournal | ✔️ |
 
 ## Woche 7
 
@@ -146,10 +146,10 @@
 
 | Zeitblock | Geplante Aktivität | Tatsächliche Aktivität | Vergleich |
 |:---------:|:------------------:|:----------------------:|:------------------:|
-| 07:30-08:30 | Projektplanung | Projektplanung | ✔️ |
-| 08:35-09:35 | Code-Entwicklung | Code-Entwicklung | ✔️ |
-| 09:40-10:40 | Code-Überprüfung | Code-Überprüfung und Debugging | ❌ |
-| 10:45-11:45 | Dokumentation | Dokumentation | ✔️ |
+| 07:30-08:30 | Präsentation | Präsentation | ✔️ |
+| 08:35-09:35 | Präsentation | Präsentation | ✔️ |
+| 09:40-10:40 | Präsentation | Präsentation | ✔️ |
+| 10:45-11:45 | Präsentation | Präsentation | ✔️ |
 
 ### 2.3 Testfälle
 
