@@ -63,7 +63,7 @@
 | 5.2   | Meyer/Gilardoni  | 4.6.24     | Implementierung der Soundeffekte im Spiel                                 | 75 min        |
 | 6     | Meyer/Gilardoni  | 11.6.24     | Gestaltung der Benutzeroberfläche                                         | 120 min       |
 | 6.1   | Meyer/Gilardoni  | 11.6.24     | Entwicklung und Implementierung der finalen Benutzeroberfläche            | 105 min       |
-| 7     | Jeanneret/Meister       | Teammitglied U  | Durchführung von Tests und Debugging                                        | 90 min        |
+| 7     | Jeanneret/Meister       | 11.6.24 | Durchführung von Tests und Debugging                                        | 90 min        |
 | 7.1   | alle      | 11.6.24  | Durchführung der Tests und Fehlerbehebung                                   | 75 min        |
 | 8     | Jeanneret/Meister       | 18.6.24 | Dokumentation der Testergebnisse und Qualitätskontrolle                     | 105 min       |
 | 8.1   | Jeanneret/Meister       | 18.6.24  | Erstellung eines Testberichts                                               | 60 min        |
