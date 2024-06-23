@@ -1,32 +1,67 @@
-# IPA Bericht
+IPA-Bericht
+1. Einleitung
+1.1 Projektbeschreibung
 
-## 1. Einleitung
-Dieser Bericht dokumentiert die Entwicklung eines Pac-Man-Spiels im Rahmen der individuellen Projektarbeit (IPA). Das Projekt zielt darauf ab, ein unterhaltsames und herausforderndes Pac-Man-Spiel zu erstellen, das verschiedene Kartenlayouts und Schwierigkeitsgrade sowie eine intuitive Benutzeroberfläche und ansprechende Musik und Soundeffekte bietet. Der Entwicklungsprozess wird durch die Anwendung der IPERKA-Methode unterstützt.
+Das Projekt zielte darauf ab, ein Pac-Man-Spiel zu entwickeln, das eine intuitive Steuerung, ansprechende Grafik und Musik sowie unterschiedliche Schwierigkeitsgrade und Kartenlayouts bietet. Ziel war es, ein unterhaltsames und herausforderndes Spielerlebnis zu schaffen.
+1.2 Ziele und Umfang
 
-## 2. Projektmanagement und Planung
+Die Hauptziele des Projekts waren:
 
-### 2.1 Gewählte Projektmanagement-Methode
-Für die Durchführung dieses Projekts wurde die IPERKA-Methode gewählt. Diese Methode eignet sich besonders gut für strukturierte und klar definierte Projekte, da sie einen klaren Ablauf in sechs Phasen bietet: Informieren, Planen, Entscheiden, Realisieren, Kontrollieren und Auswerten.
+    Entwicklung eines funktionalen Pac-Man-Spiels
+    Integration von Soundeffekten und Musik
+    Implementierung unterschiedlicher Geisterbewegungsmuster
+    Bereitstellung verschiedener Kartenlayouts und Schwierigkeitsgrade
 
-### 2.2 Anwendung der Projektmanagement-Methode
-Die IPERKA-Methode wurde in der praktischen Arbeit durch folgende Maßnahmen angewandt:
+2. Planung
+2.1 Anforderungsanalyse und User Stories
 
-- **Informieren:** Sammlung und Analyse von Informationen zu den Anforderungen und Zielen des Projekts.
-- **Planen:** Erstellung eines detaillierten Projektplans mit Meilensteinen und Aufgaben.
-- **Entscheiden:** Auswahl der besten Vorgehensweise und Technologien für die Umsetzung.
-- **Realisieren:** Entwicklung und Implementierung des Pac-Man-Spiels gemäß den Anforderungen.
-- **Kontrollieren:** Überprüfung der Fortschritte und Qualitätssicherung durch Tests.
-- **Auswerten:** Reflexion über das Projekt, Dokumentation der Ergebnisse und Lessons Learned.
+Zu Beginn des Projekts wurden die Anforderungen in einer detaillierten Analysephase ermittelt. Die wichtigsten User Stories wurden priorisiert und in funktionale und qualitative Anforderungen unterteilt.
+2.2 Arbeitspakete und Zeitplan
 
-### 2.3 Dokumentation der korrekten Anwendung im IPA-Bericht
-Die korrekte Anwendung der IPERKA-Methode ist in diesem Bericht dokumentiert durch:
-- Detaillierte Beschreibung der durchgeführten Aktivitäten in jeder Phase.
-- Protokolle und Dokumentationen der Planungs- und Entscheidungsprozesse.
-- Testergebnisse und Qualitätskontrollen.
-- Reflexion und Auswertung des gesamten Projektverlaufs.
+Die Arbeitspakete wurden auf Basis der User Stories erstellt und einem detaillierten Zeitplan zugeordnet. Der Zeitplan wurde in wöchentliche Aufgaben unterteilt, um eine effiziente Umsetzung und Kontrolle zu gewährleisten.
+3. Umsetzung
+3.1 Entwicklungsphase
 
-### 2.4 Weitergehende Analyse und Verfeinerung des Auftrags
-Der Auftrag wurde ausgehend von der ursprünglichen Aufgabenstellung weiter analysiert und verfeinert durch:
-- Identifizierung und Beschreibung der Kernfunktionen des Spiels.
-- Entwicklung detaillierter User Stories und Akzeptanzkriterien.
-- Kontinuierliche Rücksprache mit dem Auftraggeber, um sicherzustellen, dass das Endprodukt den Anforderungen entspricht.
+Die Implementierung des Pac-Man-Spiels erfolgte in mehreren Phasen:
+
+    Steuerung und Bewegungsmuster: Die Steuerung von Pac-Man sowie die Bewegungsmuster der Geister wurden programmiert und getestet.
+    Punkte- und Belohnungssystem: Ein System zur Punktevergabe und Belohnung wurde entwickelt.
+    Musik und Soundeffekte: Ansprechende Musik und Soundeffekte wurden ausgewählt und integriert.
+    Benutzeroberfläche: Die Benutzeroberfläche wurde gestaltet und implementiert.
+
+3.2 Tests und Qualitätssicherung
+
+In der Testphase wurden umfassende Tests durchgeführt, um sicherzustellen, dass alle Funktionen ordnungsgemäß arbeiten. Fehler wurden identifiziert und behoben.
+4. Ergebnisse
+4.1 Erreichte Ziele
+
+Alle Hauptziele des Projekts wurden erreicht:
+
+    Das Spiel bietet eine intuitive Steuerung und ein ansprechendes Spielerlebnis.
+    Die unterschiedlichen Geisterbewegungsmuster sorgen für Abwechslung und Herausforderung.
+    Verschiedene Kartenlayouts und Schwierigkeitsgrade bieten Spielern vielfältige Spieloptionen.
+    Musik und Soundeffekte verbessern die Atmosphäre des Spiels erheblich.
+
+4.2 Herausforderungen und Lösungen
+Herausforderungen
+
+    Komplexität der Geisterbewegungen: Die Implementierung der unterschiedlichen Bewegungsmuster der Geister war komplex und erforderte präzises Debugging.
+    Integration von Musik und Soundeffekten: Die Auswahl und Integration der passenden Musik und Soundeffekte erwies sich als zeitaufwendig.
+
+Lösungen
+
+    Schrittweise Implementierung: Die Bewegungsmuster der Geister wurden schrittweise implementiert und getestet, um Fehler frühzeitig zu erkennen und zu beheben.
+    Iterative Auswahl: Die Musik und Soundeffekte wurden iterativ ausgewählt und integriert, um die beste Passform für das Spiel zu gewährleisten.
+
+5. Reflexion und Ausblick
+5.1 Reflexion
+
+Das Projekt war insgesamt erfolgreich. Die definierten Ziele wurden erreicht und das Spiel bietet ein unterhaltsames und herausforderndes Erlebnis. Die Zusammenarbeit im Team war effektiv und die Aufgabenverteilung klar und präzise.
+5.2 Verbesserungspotential
+
+    Erweiterung der Funktionen: Zukünftige Versionen des Spiels könnten zusätzliche Power-ups und Spielmodi bieten, um die Vielfalt zu erhöhen.
+    Optimierung der Benutzeroberfläche: Eine weitere Optimierung der Benutzeroberfläche könnte das Spielerlebnis noch intuitiver gestalten.
+
+5.3 Ausblick
+
+Das Pac-Man-Spiel hat das Potenzial, weiterentwickelt zu werden. Zukünftige Projekte könnten auf den Erfahrungen und Ergebnissen dieses Projekts aufbauen, um noch anspruchsvollere und spannendere Spiele zu entwickeln.
