@@ -258,7 +258,7 @@ namespace PAC_Man_Game_WPF_MOO_ICT
 
             if (score == 124)
             {
-                GameOver("You Win, you collected all of the coins");
+                GameOver("You Win! you collected all of the coins");
             }
 
 
