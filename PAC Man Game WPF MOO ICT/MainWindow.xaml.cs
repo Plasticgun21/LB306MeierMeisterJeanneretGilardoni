@@ -267,7 +267,7 @@ namespace PAC_Man_Game_WPF_MOO_ICT
         private void GameOver(string message)
         {
             gameTimer.Stop();
-            MessageBox.Show(message, "The Pac Man Game WPF MOO ICT");
+            MessageBox.Show(message, "Pac Man Game ");
 
             System.Diagnostics.Process.Start(Application.ResourceAssembly.Location);
             Application.Current.Shutdown();
