@@ -11,9 +11,9 @@
 
         <!-- Pacman and Ghosts -->
         <Rectangle Name="pacman" Width="30" Height="30" Fill="Yellow" Canvas.Left="65" Canvas.Top="100" />
-        <Rectangle Name="redGuy" Tag="ghost" Width="30" Height="30" Fill="Red" Canvas.Left="413" Canvas.Top="455" HorizontalAlignment="Center" VerticalAlignment="Top" />
-        <Rectangle Name="orangeGuy" Tag="ghost" Width="30" Height="30" Fill="Orange" Canvas.Left="410" Canvas.Top="65" />
-        <Rectangle Name="pinkGuy" Tag="ghost" Width="30" Height="30" Fill="Pink" Canvas.Left="410" Canvas.Top="260" />
+        <Rectangle Name="redGuy" Tag="ghost" Width="30" Height="30" Fill="Red" Canvas.Left="75" Canvas.Top="475" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Rectangle Name="orangeGuy" Tag="ghost" Width="30" Height="30" Fill="Orange" Canvas.Left="170" Canvas.Top="130" HorizontalAlignment="Center" VerticalAlignment="Top" />
+        <Rectangle Name="pinkGuy" Tag="ghost" Width="30" Height="30" Fill="Pink" Canvas.Left="75" Canvas.Top="270" />
 
         <!-- Walls for the original map layout -->
         <!-- Outer walls -->
@@ -24,7 +24,6 @@
 
         <!-- Inner walls (sample layout) -->
         <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="60" Width="10" Canvas.Left="150" Canvas.Top="100" />
-        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="60" Width="10" Canvas.Left="650" Canvas.Top="100" />
         <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="10" Width="500" Canvas.Left="150" Canvas.Top="100" />
 
         <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="60" Width="10" Canvas.Left="150" Canvas.Top="300" />

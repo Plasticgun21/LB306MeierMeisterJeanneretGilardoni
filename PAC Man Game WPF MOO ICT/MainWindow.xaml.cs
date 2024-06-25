@@ -229,10 +229,10 @@ namespace PAC_Man_Game_WPF_MOO_ICT
                     }
                     else if (x.Name.ToString() == "orangeGuy")
                     {
-                        Canvas.SetTop(x, Canvas.GetTop(x) + ghostSpeed);
-                        if (Canvas.GetTop(x) > 500)
+                        Canvas.SetLeft(x, Canvas.GetLeft(x) + ghostSpeed);
+                        if (Canvas.GetLeft(x) > 700)
                         {
-                            Canvas.SetTop(x, 50);
+                            Canvas.SetLeft(x, 50);
                         }
                     }
                     else if (x.Name.ToString() == "pinkGuy")
