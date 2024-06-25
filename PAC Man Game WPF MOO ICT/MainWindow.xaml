@@ -23,8 +23,8 @@
         <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="10" Width="700" Canvas.Left="50" Canvas.Top="540" />
 
         <!-- Inner walls (sample layout) -->
-        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="60" Width="10" Canvas.Left="150" Canvas.Top="100" />
-        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="10" Width="500" Canvas.Left="150" Canvas.Top="100" />
+        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="60" Width="10" Canvas.Left="150" Canvas.Top="115" HorizontalAlignment="Center" VerticalAlignment="Top" />
+        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="10" Width="500" Canvas.Left="150" Canvas.Top="115" HorizontalAlignment="Center" VerticalAlignment="Top" />
 
         <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="60" Width="10" Canvas.Left="150" Canvas.Top="300" />
         <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="60" Width="10" Canvas.Left="650" Canvas.Top="300" />
@@ -39,8 +39,8 @@
         <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="100" Width="10" Canvas.Left="500" Canvas.Top="150" />
 
         <!-- Horizontal walls -->
-        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="10" Width="100" Canvas.Left="300" Canvas.Top="250" />
-        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="10" Width="100" Canvas.Left="500" Canvas.Top="250" />
+        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="10" Width="100" Canvas.Left="300" Canvas.Top="240" HorizontalAlignment="Center" VerticalAlignment="Top" />
+        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="10" Width="100" Canvas.Left="500" Canvas.Top="240" HorizontalAlignment="Center" VerticalAlignment="Top" />
 
 
 
@@ -185,7 +185,7 @@
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="660" Canvas.Top="270" />
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="690" Canvas.Top="270" />
 
-        <!-- Additional coins and walls can be added similarly to fill out the map -->
+
     </Canvas>
 </Window>
 
