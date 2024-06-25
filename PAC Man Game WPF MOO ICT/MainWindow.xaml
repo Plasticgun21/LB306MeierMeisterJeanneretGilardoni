@@ -35,8 +35,8 @@
         <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="10" Width="500" Canvas.Left="150" Canvas.Top="500" />
 
         <!-- Vertical walls -->
-        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="100" Width="10" Canvas.Left="300" Canvas.Top="150" />
-        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="100" Width="10" Canvas.Left="500" Canvas.Top="150" />
+        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="70" Width="10" Canvas.Left="300" Canvas.Top="180" HorizontalAlignment="Center" VerticalAlignment="Top" />
+        <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="65" Width="10" Canvas.Left="500" Canvas.Top="185" HorizontalAlignment="Center" VerticalAlignment="Top" />
 
         <!-- Horizontal walls -->
         <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="10" Width="100" Canvas.Left="300" Canvas.Top="240" HorizontalAlignment="Center" VerticalAlignment="Top" />
