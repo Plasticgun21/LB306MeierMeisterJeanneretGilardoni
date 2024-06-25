@@ -23,7 +23,7 @@ namespace PAC_Man_Game_WPF_MOO_ICT
         // Movement control flags
         bool goLeft, goRight, goDown, goUp;
         bool noLeft, noRight, noDown, noUp;
-
+        
         int speed = 8; // Pac-Man speed
 
         Rect pacmanHitBox; 
