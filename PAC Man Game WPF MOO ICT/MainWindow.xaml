@@ -42,12 +42,11 @@
         <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="10" Width="100" Canvas.Left="300" Canvas.Top="250" />
         <Rectangle Tag="wall" Stroke="Aqua" StrokeThickness="3" Height="10" Width="100" Canvas.Left="500" Canvas.Top="250" />
 
-        <!-- More walls can be added here for the actual map details -->
 
 
 
-        <!-- Sample inner walls -->
-        <!-- More walls can be added similarly to create the full maze -->
+
+
 
         <!-- Coins -->
         <!-- Top row -->
@@ -87,7 +86,7 @@
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="330" Canvas.Top="475" HorizontalAlignment="Center" VerticalAlignment="Top" />
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="365" Canvas.Top="475" />
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="400" Canvas.Top="475" />
-        <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="450" Canvas.Top="475" HorizontalAlignment="Center" VerticalAlignment="Top" />
+        <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="445" Canvas.Top="475" HorizontalAlignment="Center" VerticalAlignment="Top" />
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="485" Canvas.Top="475" />
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="524" Canvas.Top="475" HorizontalAlignment="Left" VerticalAlignment="Center" />
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="565" Canvas.Top="475" />
@@ -132,7 +131,7 @@
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="210" Canvas.Top="150" />
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="240" Canvas.Top="150" />
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="270" Canvas.Top="150" />
-        <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="300" Canvas.Top="150" />
+        <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="595" Canvas.Top="475" />
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="330" Canvas.Top="150" />
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="360" Canvas.Top="150" />
         <Rectangle Tag="coin" Height="10" Width="10" Fill="Gold" Canvas.Left="390" Canvas.Top="150" />

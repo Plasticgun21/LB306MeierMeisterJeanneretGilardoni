@@ -216,7 +216,7 @@ namespace PAC_Man_Game_WPF_MOO_ICT
                 {
                     if (pacmanHitBox.IntersectsWith(hitBox))
                     {
-                        GameOver("Ghosts got you, click ok to play again");
+                        //GameOver("Ghosts got you, click ok to play again");
                     }
 
                     if (x.Name.ToString() == "redGuy")
