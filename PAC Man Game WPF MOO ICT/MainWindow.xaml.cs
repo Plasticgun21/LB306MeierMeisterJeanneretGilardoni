@@ -27,7 +27,7 @@ namespace PAC_Man_Game_WPF_MOO_ICT
         int speed = 8; // Pac-Man speed
 
         Rect pacmanHitBox; 
-
+        
         int ghostSpeed = 10; 
         int ghostMoveStep = 160; 
         int currentGhostStep;
@@ -219,7 +219,7 @@ namespace PAC_Man_Game_WPF_MOO_ICT
 
                     currentGhostStep--;
 
-                    if (currentGhostStep < 1) // Change ghost direction after certain steps
+                    if (currentGhostStep < 1) 
                     {
                         currentGhostStep = ghostMoveStep;
                         ghostSpeed = -ghostSpeed;
